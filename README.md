@@ -1,13 +1,16 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 
 <h1 align="center"><b>Hi , I'm Ahamed Ashfaaq </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h2 align="center"> < Confusion is part of Programming /> </h2>
+<h2 align="center"> < Confusion is part of Programming 🙂> </h2>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahamedashfaaq04&label=Profile%20views&color=0e75b6&style=flat" alt="ahamedashfaaq04" /> </p> -->
 
 - 🎓 I'm a Computer Science Undergraduate at **IIT**
+  
 - 🌱 I’m currently learning **Python & Web Development**
+  
 - 🔭 Currently working on personal projects
+  
 - 📫 How to reach me **ahamedashfaaq04@gmail.com**
 
 ***
